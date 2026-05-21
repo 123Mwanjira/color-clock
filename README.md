@@ -10,6 +10,7 @@ This project demonstrates core frontend development skills including React hooks
 
 ![Dynamic Color Clock](./screenshot.png)
 ---
+![alt text](./screenshot.png)
 
 ## About the Project
 
