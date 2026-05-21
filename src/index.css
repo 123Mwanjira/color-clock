@@ -1,0 +1,50 @@
+/* Reset default styling */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Full page styling */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(135deg, #1e3c72, #2a5298);
+  height: 100vh;
+}
+
+/* Center app */
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Clock card */
+.clock-container {
+  background-color: white;
+  padding: 40px;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.3);
+  width: 400px;
+}
+
+/* Heading */
+.title {
+  color: #1e3c72;
+  margin-bottom: 20px;
+}
+
+/* Date styling */
+.date {
+  font-size: 1.2rem;
+  margin-bottom: 15px;
+  color: #444;
+}
+
+/* Time styling */
+.time {
+  font-size: 2.5rem;
+  color: #ff5733;
+}
