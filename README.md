@@ -5,10 +5,10 @@ This project demonstrates core frontend development skills including React hooks
 
 ---
 
-## Live Preview
 
-![App Screenshot](screenshot.png)
+##  Live Preview
 
+![Dynamic Color Clock](./screenshot.png)
 ---
 
 ## About the Project
