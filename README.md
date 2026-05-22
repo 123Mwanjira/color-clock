@@ -1,3 +1,5 @@
+https://123mwanjira.github.io/color-clock/
+
 #  Dynamic Color Clock
 
 A modern, responsive **real-time digital clock application** built using **React, Vite, and date-fns**.  
